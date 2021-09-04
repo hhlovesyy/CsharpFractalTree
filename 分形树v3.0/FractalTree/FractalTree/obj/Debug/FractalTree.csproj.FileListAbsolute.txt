@@ -1,0 +1,48 @@
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.Cache
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.Cache
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.csprojAssemblyReference.cache
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.cache
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.CoreCompileInputs.cache
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
+E:\期末考试复习\C#\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\obj\Debug\FractalTree.csprojAssemblyReference.cache
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.cache
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.CoreCompileInputs.cache
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+E:\期末考试复习\C#\分形树v2.0\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\obj\Debug\FractalTree.csprojAssemblyReference.cache
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.cache
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.CoreCompileInputs.cache
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+E:\期末考试复习\C#\分形树v3.0\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
